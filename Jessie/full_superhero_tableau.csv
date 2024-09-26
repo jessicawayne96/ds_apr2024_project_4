@@ -1,0 +1,648 @@
+name,Gender,Height,Publisher,Alignment,Weight,Physical Attributes,Energy Related,Elemental Powers,Magic/Cosmic Powers,Healing/Survival Powers,Sensory Awareness,Movement/Travel Powers,Weapon/Combat Skills,Manipulation/Control Powers,Vision/Perception Powers,Technology Powers,Illusions/Mental Manipulation,Special Abilities,Unique Abilities
+A-Bomb,Male,203.0,Marvel Comics,good,441.0,True,False,False,False,True,False,False,False,False,False,False,False,True,False
+Abe Sapien,Male,191.0,Dark Horse Comics,good,65.0,True,False,False,False,True,True,True,True,False,False,False,False,True,False
+Abin Sur,Male,185.0,DC Comics,good,90.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Abomination,Male,203.0,Marvel Comics,bad,441.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Abraxas,Male,183.0,Marvel Comics,bad,81.0,True,True,False,True,True,True,True,False,True,False,False,False,False,False
+Absorbing Man,Male,193.0,Marvel Comics,bad,122.0,True,True,True,False,True,False,False,False,True,False,False,False,False,False
+Adam Monroe,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Adam Strange,Male,185.0,DC Comics,good,88.0,True,False,False,False,True,False,True,True,False,False,False,False,False,False
+Agent Bob,Male,178.0,Marvel Comics,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Agent Zero,Male,191.0,Marvel Comics,good,104.0,True,True,False,False,True,False,False,True,False,False,False,False,False,False
+Air-Walker,Male,188.0,Marvel Comics,bad,108.0,True,False,False,True,True,False,True,False,True,False,False,False,False,False
+Ajax,Male,193.0,Marvel Comics,bad,90.0,True,False,True,False,False,False,False,True,False,False,False,False,False,False
+Alan Scott,Male,180.0,DC Comics,good,90.0,True,True,False,False,False,True,True,False,False,False,False,True,True,False
+Alex Mercer,Male,183.0,Wildstorm,bad,81.0,True,True,False,False,True,True,True,True,True,True,False,False,True,False
+Alex Woolsly,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Alien,Male,244.0,Dark Horse Comics,bad,169.0,True,False,True,False,True,False,False,True,False,True,False,False,True,False
+Allan Quatermain,Male,183.0,Wildstorm,good,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Amazo,Male,257.0,DC Comics,bad,173.0,True,True,True,False,True,True,True,True,True,True,False,False,True,False
+Ammo,Male,188.0,Marvel Comics,bad,101.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Ando Masahashi,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Angel,Male,183.0,Marvel Comics,good,68.0,True,False,False,True,True,True,True,False,False,True,False,False,False,False
+Angel,Male,183.0,Dark Horse Comics,good,81.0,True,False,False,True,True,True,True,False,False,True,False,False,False,False
+Angel Dust,Female,165.0,Marvel Comics,good,57.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Angel Salvadore,Female,163.0,Marvel Comics,good,54.0,False,False,False,False,True,False,True,False,True,False,False,False,False,False
+Angela,Female,183.0,Image Comics,bad,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Animal Man,Male,183.0,DC Comics,good,83.0,False,True,False,False,False,True,False,False,True,False,False,False,False,False
+Annihilus,Male,180.0,Marvel Comics,bad,90.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Ant-Man,Male,211.0,Marvel Comics,good,122.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Ant-Man II,Male,183.0,Marvel Comics,good,86.0,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+Anti-Monitor,Male,61.0,DC Comics,bad,81.0,True,True,False,True,True,True,True,True,True,False,False,False,False,True
+Anti-Spawn,Male,183.0,Image Comics,bad,81.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Anti-Venom,Male,229.0,Marvel Comics,-,358.0,True,False,False,True,True,True,False,False,True,False,False,False,True,False
+Apocalypse,Male,213.0,Marvel Comics,bad,135.0,True,True,False,False,True,True,True,False,True,False,False,False,False,False
+Aquababy,Male,183.0,DC Comics,good,81.0,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+Aqualad,Male,178.0,DC Comics,good,106.0,True,True,True,True,False,True,False,False,False,True,False,False,False,False
+Aquaman,Male,185.0,DC Comics,good,146.0,True,False,True,False,True,True,True,False,True,True,False,False,True,False
+Arachne,Female,175.0,Marvel Comics,good,63.0,True,False,False,False,True,True,False,False,False,False,False,False,True,False
+Archangel,Male,183.0,Marvel Comics,good,68.0,True,False,False,False,True,False,True,False,False,True,False,False,False,False
+Arclight,Female,173.0,Marvel Comics,bad,57.0,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+Ardina,Female,193.0,Marvel Comics,good,98.0,True,True,True,True,True,True,True,False,True,False,False,False,False,False
+Ares,Male,185.0,Marvel Comics,good,270.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Ariel,Female,165.0,Marvel Comics,good,59.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+Armor,Female,163.0,Marvel Comics,good,50.0,True,True,False,False,False,True,False,False,False,False,False,False,False,False
+Atlas,Male,183.0,Marvel Comics,good,101.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Atlas,Male,198.0,DC Comics,bad,126.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Atom,Male,178.0,DC Comics,good,68.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Atom,Male,183.0,DC Comics,good,81.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Atom Girl,Female,168.0,DC Comics,good,54.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Atom II,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,True,False,True,False,False,False,False,False
+Atom III,Male,183.0,DC Comics,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Atom IV,Male,183.0,DC Comics,good,72.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Aurora,Female,180.0,Marvel Comics,good,63.0,True,True,False,False,True,False,True,False,True,False,False,False,False,False
+Azazel,Male,183.0,Marvel Comics,bad,67.0,False,False,False,False,True,False,True,False,True,False,False,False,False,False
+Azrael,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Aztar,Male,183.0,DC Comics,good,81.0,True,False,False,True,True,True,True,False,False,False,False,True,True,False
+Bane,Male,203.0,DC Comics,bad,180.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Banshee,Male,183.0,Marvel Comics,good,77.0,True,False,False,False,False,False,True,False,False,True,False,False,False,False
+Bantam,Male,165.0,Marvel Comics,good,54.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Batgirl,Female,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Batgirl,Female,170.0,DC Comics,good,57.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Batgirl IV,Female,165.0,DC Comics,good,52.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Batgirl VI,Female,168.0,DC Comics,good,61.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Batman,Male,188.0,DC Comics,good,95.0,True,False,False,False,False,False,True,True,False,True,False,False,False,False
+Batman,Male,178.0,DC Comics,good,77.0,True,False,False,False,False,False,True,True,False,True,False,False,False,False
+Batman II,Male,178.0,DC Comics,good,79.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Battlestar,Male,198.0,Marvel Comics,good,133.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Batwoman V,Female,178.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Beak,Male,175.0,Marvel Comics,good,63.0,False,False,False,False,False,False,True,False,False,True,False,False,False,False
+Beast,Male,180.0,Marvel Comics,good,181.0,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Beast Boy,Male,173.0,DC Comics,good,68.0,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+Ben 10,Male,183.0,DC Comics,good,81.0,False,False,False,False,False,False,False,False,True,False,True,False,False,False
+Beta Ray Bill,Male,201.0,Marvel Comics,good,216.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Beyonder,Male,183.0,Marvel Comics,good,81.0,True,True,False,False,True,True,True,False,True,False,False,False,False,True
+Big Barda,Female,188.0,DC Comics,bad,135.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Big Daddy,Male,183.0,Icon Comics,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Big Man,Male,165.0,Marvel Comics,bad,71.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Bill Harken,Male,183.0,SyFy,good,81.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Billy Kincaid,Male,183.0,Image Comics,bad,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Binary,Female,180.0,Marvel Comics,good,54.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Bird-Brain,-,183.0,Marvel Comics,good,81.0,False,False,False,False,False,False,True,True,False,False,False,False,False,False
+Bird-Man,Male,183.0,Marvel Comics,bad,81.0,True,False,False,False,False,False,True,True,True,False,False,False,False,False
+Bird-Man II,Male,183.0,Marvel Comics,bad,81.0,False,False,False,False,False,False,True,True,False,False,False,False,False,False
+Birdman,Male,183.0,Hanna-Barbera,good,81.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Bishop,Male,198.0,Marvel Comics,good,124.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Bizarro,Male,191.0,DC Comics,neutral,155.0,True,True,True,False,True,False,True,True,False,True,False,True,False,False
+Black Abbott,Male,183.0,Marvel Comics,bad,81.0,False,True,False,False,False,True,False,False,True,False,False,True,False,False
+Black Adam,Male,191.0,DC Comics,bad,113.0,True,True,False,True,True,True,True,False,True,False,False,False,False,False
+Black Bolt,Male,188.0,Marvel Comics,good,95.0,True,True,False,False,True,True,True,False,True,False,False,False,False,False
+Black Canary,Female,165.0,DC Comics,good,58.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Black Canary,Female,170.0,DC Comics,good,59.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Black Cat,Female,178.0,Marvel Comics,good,54.0,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Black Flash,Male,183.0,DC Comics,neutral,81.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Black Knight III,Male,183.0,Marvel Comics,good,86.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Black Lightning,Male,185.0,DC Comics,good,90.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Black Mamba,Female,170.0,Marvel Comics,bad,52.0,False,False,False,True,False,False,False,False,False,False,False,True,False,False
+Black Manta,Male,188.0,DC Comics,bad,92.0,True,True,False,False,True,False,True,True,False,True,False,False,True,False
+Black Panther,Male,183.0,Marvel Comics,good,90.0,True,False,False,False,False,False,False,True,False,True,False,False,False,False
+Black Widow,Female,170.0,Marvel Comics,good,59.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Blackout,Male,191.0,Marvel Comics,bad,104.0,True,False,False,False,True,False,False,False,False,True,False,False,True,False
+Blackwing,Male,185.0,Marvel Comics,bad,86.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+Blackwulf,Male,188.0,Marvel Comics,-,88.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+Blade,Male,188.0,Marvel Comics,good,97.0,True,False,False,False,True,False,False,True,False,True,False,False,False,False
+Bling!,Female,168.0,Marvel Comics,good,68.0,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+Blink,Female,165.0,Marvel Comics,good,56.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Blizzard,Male,183.0,Marvel Comics,bad,81.0,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+Blizzard,Male,183.0,Marvel Comics,bad,81.0,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+Blizzard II,Male,175.0,Marvel Comics,bad,77.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Blob,Male,178.0,Marvel Comics,bad,230.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Bloodaxe,Female,218.0,Marvel Comics,bad,495.0,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+Bloodhawk,Male,183.0,Marvel Comics,good,81.0,True,False,False,False,True,False,True,True,True,False,False,False,False,False
+Bloodwraith,Male,30.5,Marvel Comics,bad,81.0,True,True,False,True,True,False,True,True,True,False,False,False,False,False
+Blue Beetle,Male,183.0,DC Comics,good,81.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Blue Beetle,Male,183.0,DC Comics,good,81.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Blue Beetle II,Male,183.0,DC Comics,good,86.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Blue Beetle III,Male,183.0,DC Comics,good,81.0,True,True,True,True,True,False,True,True,False,False,True,False,False,False
+Boba Fett,Male,183.0,George Lucas,bad,81.0,True,False,False,False,False,False,True,True,False,True,False,False,False,False
+Bomb Queen,Female,183.0,Image Comics,bad,81.0,False,True,False,False,True,False,False,False,False,False,False,False,False,False
+Boom-Boom,Female,165.0,Marvel Comics,good,55.0,True,True,False,False,False,True,False,False,False,False,False,False,False,False
+Booster Gold,Male,196.0,DC Comics,good,97.0,True,True,False,False,True,True,True,True,False,True,False,False,False,False
+Box IV,-,183.0,Marvel Comics,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Brainiac,Male,198.0,DC Comics,bad,135.0,True,False,False,False,True,True,True,False,True,False,False,False,False,False
+Brainiac 5,Male,170.0,DC Comics,good,61.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Brother Voodoo,Male,183.0,Marvel Comics,good,99.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Buffy,Female,157.0,Dark Horse Comics,good,52.0,True,False,False,False,True,True,False,False,False,True,False,False,False,False
+Bullseye,Male,183.0,Marvel Comics,bad,90.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Bumblebee,Female,170.0,DC Comics,good,59.0,True,True,False,False,False,False,True,True,True,False,False,False,False,False
+Bumbleboy,Male,183.0,Marvel Comics,good,81.0,False,False,False,False,False,True,True,False,False,False,False,False,False,False
+Bushido,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Cable,Male,203.0,Marvel Comics,good,158.0,True,True,False,False,True,True,True,True,True,True,True,True,True,False
+Callisto,Female,175.0,Marvel Comics,bad,74.0,True,False,False,False,True,False,False,False,False,True,False,False,True,False
+Cameron Hicks,Male,183.0,SyFy,good,81.0,False,False,False,False,False,True,False,True,False,False,False,False,False,False
+Cannonball,Male,183.0,Marvel Comics,good,81.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Captain America,Male,188.0,Marvel Comics,good,108.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Captain Atom,Male,193.0,DC Comics,good,90.0,True,True,True,False,True,False,True,True,True,False,True,False,True,False
+Captain Britain,Male,198.0,Marvel Comics,good,116.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Captain Cold,Male,183.0,DC Comics,neutral,81.0,False,False,True,False,False,False,False,True,False,False,False,False,False,False
+Captain Epic,Male,188.0,Team Epic TV,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Captain Hindsight,Male,183.0,South Park,good,81.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Captain Marvel,Female,180.0,Marvel Comics,good,74.0,True,True,True,True,True,True,True,True,False,False,False,True,False,False
+Captain Marvel,Male,193.0,DC Comics,good,101.0,True,True,True,True,True,True,True,True,False,False,False,True,False,False
+Captain Marvel II,Male,175.0,DC Comics,good,74.0,True,False,False,False,True,True,False,False,False,False,False,True,False,False
+Captain Midnight,Male,183.0,Dark Horse Comics,good,81.0,False,False,False,False,False,False,True,True,False,False,False,False,False,False
+Captain Planet,Male,183.0,Marvel Comics,good,81.0,True,True,True,False,True,True,True,False,True,False,False,False,True,False
+Captain Universe,-,183.0,Marvel Comics,good,81.0,True,True,True,False,True,False,True,False,True,False,False,False,False,False
+Carnage,Male,185.0,Marvel Comics,bad,86.0,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+Cat,Female,173.0,Marvel Comics,good,61.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Catwoman,Female,175.0,DC Comics,good,61.0,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+Century,Male,201.0,Marvel Comics,good,97.0,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+Cerebra,Female,183.0,Marvel Comics,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Chamber,Male,175.0,Marvel Comics,good,63.0,False,True,False,False,False,True,False,False,False,False,False,True,False,False
+Chameleon,Male,183.0,DC Comics,bad,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Changeling,Male,180.0,Marvel Comics,bad,81.0,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Cheetah,Female,163.0,DC Comics,bad,50.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Cheetah II,Female,170.0,DC Comics,bad,55.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Cheetah III,Female,175.0,DC Comics,bad,54.0,True,False,False,False,False,False,False,False,True,True,False,False,False,False
+Chromos,Male,185.0,Team Epic TV,bad,86.0,True,True,True,False,False,True,True,False,True,True,False,False,False,False
+Citizen Steel,Male,183.0,DC Comics,good,170.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Claire Bennet,Female,183.0,NBC - Heroes,good,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Cloak,Male,226.0,Marvel Comics,good,70.0,False,False,False,True,False,True,True,False,False,False,False,False,True,False
+Cogliostro,Male,183.0,Image Comics,bad,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Colossus,Male,226.0,Marvel Comics,good,225.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Copycat,Female,183.0,Marvel Comics,neutral,67.0,False,False,False,False,False,False,False,True,True,False,False,False,True,False
+Cottonmouth,Male,183.0,Marvel Comics,bad,99.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Crimson Crusader,Male,183.0,Marvel Comics,good,81.0,False,False,False,False,True,False,True,False,True,False,False,False,False,False
+Crimson Dynamo,Male,180.0,Marvel Comics,good,104.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Crystal,Female,168.0,Marvel Comics,good,50.0,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+Curse,Male,183.0,Image Comics,bad,81.0,False,True,False,True,False,False,False,False,False,False,False,False,False,False
+Cy-Gor,Male,183.0,Image Comics,bad,81.0,True,False,False,False,False,False,False,False,False,False,True,False,False,False
+Cyborg,Male,198.0,DC Comics,good,173.0,True,False,False,False,True,False,True,True,False,True,True,False,False,False
+Cyborg Superman,Male,183.0,DC Comics,bad,81.0,True,True,False,False,True,False,True,False,True,True,True,False,False,False
+Cyclops,Male,191.0,Marvel Comics,good,88.0,True,True,False,False,False,False,False,True,False,False,False,False,False,False
+Dagger,Female,165.0,Marvel Comics,good,52.0,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+Daphne Powell,Female,183.0,ABC Studios,good,81.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Daredevil,Male,183.0,Marvel Comics,good,90.0,True,False,False,False,False,True,False,True,False,True,False,False,False,False
+Darkhawk,Male,185.0,Marvel Comics,good,81.0,False,True,False,False,False,False,True,True,False,True,False,False,False,False
+Darkman,Male,183.0,Universal Studios,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Darkseid,Male,267.0,DC Comics,bad,817.0,True,True,False,False,True,True,True,True,True,False,False,False,False,True
+Darkstar,Female,168.0,Marvel Comics,good,56.0,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+Darth Maul,Male,170.0,George Lucas,bad,81.0,True,False,False,True,False,True,False,True,True,False,False,True,False,True
+Darth Vader,Male,198.0,George Lucas,bad,135.0,True,True,False,False,True,True,True,True,True,False,False,True,True,True
+Dash,Male,122.0,Dark Horse Comics,good,27.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Data,Male,183.0,Star Trek,good,81.0,True,False,True,False,True,False,False,False,False,False,True,False,False,False
+Dazzler,Female,173.0,Marvel Comics,good,52.0,True,True,True,False,False,False,True,True,False,False,False,True,False,True
+Deadman,Male,183.0,DC Comics,good,90.0,True,True,False,True,True,False,True,False,True,False,False,False,True,False
+Deadpool,Male,188.0,Marvel Comics,neutral,95.0,True,False,False,False,True,True,True,True,True,False,False,False,False,False
+Deadshot,Male,185.0,DC Comics,bad,91.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Deathlok,Male,193.0,Marvel Comics,good,178.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+Deathstroke,Male,193.0,DC Comics,neutral,101.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Demogoblin,Male,185.0,Marvel Comics,bad,95.0,True,False,False,True,False,True,False,True,False,False,False,False,False,False
+Destroyer,Male,188.0,Marvel Comics,bad,383.0,True,True,False,False,False,False,True,False,True,False,False,False,False,False
+Diamondback,Male,193.0,Marvel Comics,bad,90.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+DL Hawkins,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Doc Samson,Male,198.0,Marvel Comics,good,171.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Doctor Doom,Male,201.0,Marvel Comics,bad,187.0,True,True,False,True,False,False,True,True,False,False,False,False,False,False
+Doctor Doom II,Male,201.0,Marvel Comics,bad,132.0,True,True,False,False,False,True,True,False,False,False,False,False,False,False
+Doctor Fate,Male,188.0,DC Comics,good,89.0,True,True,False,False,True,True,True,False,True,False,False,True,True,True
+Doctor Octopus,Male,175.0,Marvel Comics,bad,110.0,True,False,False,False,False,False,False,True,False,False,True,False,True,False
+Doctor Strange,Male,188.0,Marvel Comics,good,81.0,False,True,False,True,True,True,True,False,True,False,False,True,True,False
+Domino,Female,173.0,Marvel Comics,good,54.0,True,False,False,False,False,False,False,True,True,False,False,False,False,False
+Donatello,Male,183.0,IDW Publishing,good,81.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Donna Troy,Female,175.0,DC Comics,good,63.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Doomsday,Male,244.0,DC Comics,bad,412.0,True,True,True,False,True,False,False,True,True,False,False,False,False,True
+Doppelganger,Male,196.0,Marvel Comics,bad,104.0,True,False,False,False,True,False,False,True,True,False,False,False,True,False
+Dormammu,Male,185.0,Marvel Comics,bad,81.0,True,False,False,True,True,True,True,False,True,False,False,False,False,False
+Dr Manhattan,Male,183.0,DC Comics,good,81.0,True,True,False,False,True,True,True,False,True,False,False,False,True,False
+Drax the Destroyer,Male,193.0,Marvel Comics,good,306.0,True,False,True,False,True,False,False,True,False,False,False,False,False,False
+Ego,-,183.0,Marvel Comics,bad,81.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+Elastigirl,Female,168.0,Dark Horse Comics,good,56.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Electro,Male,180.0,Marvel Comics,bad,74.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Elektra,Female,175.0,Marvel Comics,good,59.0,True,False,False,False,False,True,False,True,False,False,False,True,False,False
+Elle Bishop,Female,183.0,NBC - Heroes,bad,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Elongated Man,Male,185.0,DC Comics,good,80.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Emma Frost,Female,178.0,Marvel Comics,good,65.0,True,False,False,False,True,True,True,False,True,False,False,True,True,False
+Enchantress,Female,168.0,DC Comics,good,57.0,True,True,True,True,True,False,True,False,False,False,False,True,True,False
+Energy,Female,183.0,HarperCollins,good,81.0,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+Etrigan,Male,193.0,DC Comics,neutral,203.0,True,True,False,True,True,True,False,True,False,False,False,False,False,False
+Evil Deadpool,Male,188.0,Marvel Comics,bad,95.0,True,False,False,False,True,True,True,True,True,False,False,False,False,False
+Evilhawk,Male,191.0,Marvel Comics,bad,106.0,True,True,False,False,True,False,True,True,False,True,False,False,False,False
+Exodus,Male,183.0,Marvel Comics,bad,88.0,False,True,False,False,True,True,True,False,True,False,False,True,False,True
+Fabian Cortez,-,196.0,Marvel Comics,bad,96.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Falcon,Male,188.0,Marvel Comics,good,108.0,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+Fallen One II,Male,183.0,Marvel Comics,bad,81.0,True,True,False,True,True,True,True,False,True,False,False,True,False,False
+Faora,Female,183.0,DC Comics,bad,81.0,True,True,False,False,True,False,True,False,False,True,False,True,False,False
+Feral,-,175.0,Marvel Comics,good,50.0,True,False,False,False,True,False,False,True,True,False,False,False,False,False
+Fighting Spirit,Female,183.0,DC Comics,good,81.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Fin Fang Foom,Male,975.0,Marvel Comics,good,18.0,True,False,False,False,True,True,True,False,True,False,False,False,False,False
+Firebird,Female,165.0,Marvel Comics,good,56.0,False,True,True,False,True,False,True,False,False,False,False,False,False,False
+Firelord,-,193.0,Marvel Comics,good,99.0,False,True,True,False,False,False,True,False,False,False,False,False,False,False
+Firestar,Female,173.0,Marvel Comics,good,56.0,True,True,True,False,False,False,True,False,False,False,False,False,False,False
+Firestorm,Male,183.0,DC Comics,good,81.0,True,True,True,False,True,True,True,False,True,True,False,False,False,False
+Firestorm,Male,188.0,DC Comics,good,91.0,True,True,True,False,True,True,True,False,True,True,False,False,False,False
+Flash,Male,180.0,DC Comics,good,81.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Flash II,Male,183.0,DC Comics,good,88.0,True,True,False,False,True,False,True,False,False,False,True,False,False,False
+Flash III,Male,183.0,DC Comics,good,86.0,True,True,False,False,True,False,True,False,True,False,False,False,False,False
+Flash IV,Male,157.0,DC Comics,good,52.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Forge,-,183.0,Marvel Comics,good,81.0,False,False,False,True,False,False,False,False,False,False,False,False,False,False
+Franklin Richards,Male,142.0,Marvel Comics,good,45.0,True,True,False,False,True,True,True,False,True,False,False,True,False,True
+Frenzy,Female,211.0,Marvel Comics,bad,104.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Frigga,Female,180.0,Marvel Comics,good,167.0,True,False,False,True,False,False,False,False,False,False,False,False,False,False
+Galactus,Male,876.0,Marvel Comics,neutral,16.0,True,True,False,True,True,True,True,True,True,False,False,False,False,True
+Gambit,Male,185.0,Marvel Comics,good,81.0,True,True,False,False,False,True,False,False,True,False,False,False,False,False
+Gamora,Female,183.0,Marvel Comics,good,77.0,True,False,False,False,True,True,False,True,False,False,False,False,False,False
+Garbage Man,Male,183.0,DC Comics,good,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Gary Bell,Male,183.0,SyFy,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+General Zod,Male,183.0,DC Comics,bad,81.0,True,True,False,False,True,False,True,False,False,True,False,True,False,False
+Genesis,Male,185.0,Marvel Comics,good,86.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Ghost Rider,Male,188.0,Marvel Comics,good,99.0,True,True,True,True,True,True,False,True,True,False,False,False,False,False
+Ghost Rider II,-,183.0,Marvel Comics,good,81.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Giganta,Female,62.5,DC Comics,bad,630.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Gladiator,Male,198.0,Marvel Comics,neutral,268.0,True,False,False,False,True,True,True,False,False,True,False,False,False,False
+Goblin Queen,Female,168.0,Marvel Comics,bad,50.0,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Gog,Male,183.0,DC Comics,bad,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Goku,Male,175.0,Shueisha,good,62.0,True,True,False,False,True,True,True,True,True,True,False,False,False,False
+Goliath IV,Male,183.0,Marvel Comics,good,90.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Gorilla Grodd,Male,198.0,DC Comics,bad,270.0,True,True,False,False,False,True,False,True,True,False,False,False,False,False
+Granny Goodness,Female,178.0,DC Comics,bad,115.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Gravity,Male,178.0,Marvel Comics,good,79.0,False,True,False,False,False,False,True,False,True,False,False,False,False,False
+Greedo,Male,170.0,George Lucas,bad,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Green Arrow,Male,188.0,DC Comics,good,88.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Green Goblin,Male,180.0,Marvel Comics,bad,83.0,True,False,False,False,True,False,False,True,False,False,False,True,False,False
+Green Goblin II,Male,178.0,Marvel Comics,bad,77.0,True,False,False,False,True,False,False,False,False,False,False,True,False,False
+Green Goblin III,Male,183.0,Marvel Comics,good,88.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Green Goblin IV,Male,178.0,Marvel Comics,good,79.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Groot,Male,701.0,Marvel Comics,good,4.0,True,False,False,False,True,False,False,False,True,False,False,False,False,True
+Guy Gardner,Male,188.0,DC Comics,good,95.0,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+Hal Jordan,Male,188.0,DC Comics,good,90.0,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+Han Solo,Male,183.0,George Lucas,good,79.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Hancock,Male,188.0,Sony Pictures,good,81.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Harley Quinn,Female,170.0,DC Comics,bad,63.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Harry Potter,Male,183.0,J. K. Rowling,good,81.0,True,True,False,True,True,True,True,False,True,False,False,True,True,True
+Havok,Male,183.0,Marvel Comics,good,79.0,False,True,True,False,True,False,True,True,False,False,False,False,False,False
+Hawk,Male,185.0,DC Comics,good,89.0,True,False,False,False,True,False,True,True,False,False,False,False,False,False
+Hawkeye,Male,191.0,Marvel Comics,good,104.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Hawkeye II,Female,165.0,Marvel Comics,good,57.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Hawkgirl,Female,175.0,DC Comics,good,61.0,True,False,False,False,True,False,True,False,False,True,False,False,False,False
+Hawkman,Male,185.0,DC Comics,good,88.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Heat Wave,Male,180.0,DC Comics,bad,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Hela,Female,213.0,Marvel Comics,bad,225.0,True,False,False,True,True,False,True,False,False,False,False,True,False,False
+Hellboy,Male,259.0,Dark Horse Comics,good,158.0,True,False,True,True,True,False,False,True,False,False,False,False,False,True
+Hellcat,Female,173.0,Marvel Comics,good,61.0,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+Hellstorm,Male,185.0,Marvel Comics,good,81.0,False,True,True,True,True,False,True,False,False,False,False,False,False,False
+Hercules,Male,196.0,Marvel Comics,good,146.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Hiro Nakamura,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Hit-Girl,Female,183.0,Icon Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Hobgoblin,Male,180.0,Marvel Comics,bad,83.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Hollow,Female,170.0,Marvel Comics,good,81.0,False,False,False,False,False,True,False,True,False,False,False,False,False,False
+Hope Summers,Female,168.0,Marvel Comics,good,48.0,False,True,False,False,True,True,False,False,True,True,False,False,False,False
+Hulk,Male,244.0,Marvel Comics,good,630.0,True,False,True,False,True,False,False,False,True,False,False,False,False,False
+Human Torch,Male,178.0,Marvel Comics,good,77.0,True,True,True,False,True,False,True,True,False,False,False,False,False,False
+Huntress,Female,180.0,DC Comics,good,59.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Husk,Female,170.0,Marvel Comics,good,58.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Hybrid,Male,175.0,Marvel Comics,good,77.0,True,False,False,True,True,True,True,True,True,False,False,False,True,False
+Hydro-Man,Male,188.0,Marvel Comics,bad,119.0,False,False,True,False,True,True,False,True,True,False,False,False,False,False
+Hyperion,Male,183.0,Marvel Comics,good,207.0,True,True,False,False,True,False,True,False,False,True,False,False,False,False
+Iceman,Male,173.0,Marvel Comics,good,65.0,True,True,True,False,True,False,False,True,True,True,False,False,False,False
+Impulse,Male,170.0,DC Comics,good,65.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Indiana Jones,Male,183.0,George Lucas,good,79.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Indigo,Female,183.0,DC Comics,neutral,81.0,False,True,False,False,False,False,True,False,False,False,False,False,False,False
+Ink,Male,180.0,Marvel Comics,good,81.0,True,False,False,False,True,True,True,False,False,False,False,False,False,False
+Invisible Woman,Female,168.0,Marvel Comics,good,54.0,False,True,False,False,False,True,True,False,False,False,False,False,True,False
+Iron Fist,Male,180.0,Marvel Comics,good,79.0,True,True,True,False,True,True,False,True,False,False,False,True,False,False
+Iron Man,Male,198.0,Marvel Comics,good,191.0,True,True,False,False,True,False,True,True,False,True,False,False,True,False
+Iron Monger,Male,183.0,Marvel Comics,bad,2.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Isis,Female,183.0,DC Comics,good,81.0,True,False,True,False,True,False,True,False,True,False,False,False,False,False
+Jack of Hearts,Male,155.0,Marvel Comics,good,79.0,True,True,True,False,True,False,True,False,False,False,False,False,False,False
+Jack-Jack,Male,71.0,Dark Horse Comics,good,14.0,True,False,True,False,True,False,True,False,True,True,False,False,True,False
+James Bond,Male,183.0,Titan Books,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+James T. Kirk,Male,178.0,Star Trek,good,77.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jar Jar Binks,Male,193.0,George Lucas,good,81.0,True,False,False,False,False,False,True,False,False,False,False,False,True,False
+Jean Grey,Female,168.0,Marvel Comics,good,52.0,False,True,False,False,False,True,True,False,True,False,False,True,False,False
+Jean-Luc Picard,Male,183.0,Star Trek,good,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Jennifer Kale,Female,168.0,Marvel Comics,good,55.0,False,False,False,True,False,False,True,False,False,False,False,False,False,False
+Jessica Cruz,Female,183.0,DC Comics,good,81.0,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+Jessica Jones,Female,170.0,Marvel Comics,good,56.0,True,False,False,False,False,True,True,False,False,False,False,False,False,False
+Jim Powell,Male,183.0,ABC Studios,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+JJ Powell,Male,183.0,ABC Studios,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Johann Krauss,Male,183.0,Dark Horse Comics,good,81.0,False,False,False,False,True,True,False,False,False,False,False,False,False,False
+John Constantine,Male,183.0,DC Comics,good,81.0,False,False,False,True,True,True,False,False,False,False,False,True,False,False
+John Stewart,Male,185.0,DC Comics,good,90.0,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+John Wraith,Male,183.0,Marvel Comics,good,88.0,False,False,False,False,True,True,True,False,False,False,False,False,False,False
+Joker,Male,196.0,DC Comics,bad,86.0,True,False,False,False,True,False,False,True,False,False,False,True,False,False
+Jolt,Female,165.0,Marvel Comics,good,49.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+Jubilee,Female,165.0,Marvel Comics,good,52.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Judge Dredd,Male,188.0,Rebellion,good,81.0,True,False,False,False,False,False,False,True,False,True,False,False,False,False
+Juggernaut,Male,287.0,Marvel Comics,neutral,855.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Junkpile,Male,183.0,Marvel Comics,bad,81.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Justice,Male,178.0,Marvel Comics,good,81.0,True,True,False,False,False,True,True,False,True,False,False,False,False,False
+K-2SO,Male,213.0,George Lucas,good,81.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Kang,Male,191.0,Marvel Comics,bad,104.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Karate Kid,Male,173.0,DC Comics,good,72.0,True,False,False,False,False,False,True,True,True,False,False,False,False,False
+Kathryn Janeway,Female,183.0,Star Trek,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Kevin 11,Male,183.0,DC Comics,good,81.0,True,True,False,False,True,False,True,False,True,False,False,False,False,False
+Kick-Ass,Male,183.0,Icon Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Kid Flash,Male,183.0,DC Comics,good,81.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Killer Croc,Male,244.0,DC Comics,bad,356.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Killer Frost,Female,183.0,DC Comics,bad,81.0,False,True,True,False,True,False,False,True,False,False,False,False,False,False
+Kilowog,Male,234.0,DC Comics,good,324.0,True,True,False,False,True,True,False,False,False,False,False,False,False,False
+King Shark,Male,183.0,DC Comics,bad,81.0,True,False,False,False,True,False,True,True,True,True,False,False,True,False
+Klaw,Male,188.0,Marvel Comics,bad,97.0,True,True,False,False,True,True,False,False,False,False,False,False,False,False
+Kraven II,Male,191.0,Marvel Comics,bad,99.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Kraven the Hunter,Male,183.0,Marvel Comics,bad,106.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Krypto,Male,64.0,DC Comics,good,18.0,True,False,False,False,True,False,True,False,True,True,False,False,False,False
+Kyle Rayner,Male,180.0,DC Comics,good,79.0,True,True,False,False,False,True,True,True,False,False,False,False,False,False
+Kylo Ren,Male,183.0,George Lucas,bad,81.0,True,True,False,False,True,True,False,True,True,False,False,True,False,True
+Lady Bullseye,Female,183.0,Marvel Comics,bad,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Lady Deathstrike,Female,175.0,Marvel Comics,bad,58.0,True,False,False,False,True,False,False,True,False,False,True,False,False,False
+Leader,Male,178.0,Marvel Comics,bad,63.0,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Leech,Male,183.0,Marvel Comics,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Legion,Male,175.0,Marvel Comics,good,59.0,True,False,True,False,True,True,True,False,True,False,False,True,False,True
+Leonardo,Male,183.0,IDW Publishing,good,81.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Lex Luthor,Male,188.0,DC Comics,bad,95.0,True,True,False,False,False,False,True,True,False,False,False,False,False,False
+Light Lass,Female,165.0,DC Comics,good,54.0,False,False,False,False,False,False,True,False,True,False,False,False,False,False
+Lightning Lad,Male,155.0,DC Comics,good,65.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Lightning Lord,Male,191.0,DC Comics,bad,95.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Living Brain,-,198.0,Marvel Comics,bad,360.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Living Tribunal,-,183.0,Marvel Comics,neutral,81.0,True,True,True,False,True,True,True,False,True,False,False,True,True,True
+Liz Sherman,Female,183.0,Dark Horse Comics,good,81.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Lizard,Male,203.0,Marvel Comics,bad,230.0,True,False,False,False,True,True,False,True,True,False,False,False,True,False
+Lobo,Male,229.0,DC Comics,neutral,288.0,True,False,False,False,True,False,False,False,True,False,False,False,False,False
+Loki,Male,193.0,Marvel Comics,bad,236.0,True,True,False,True,True,True,True,False,True,False,False,False,False,False
+Longshot,Male,188.0,Marvel Comics,good,36.0,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+Luke Cage,Male,198.0,Marvel Comics,good,191.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Luke Campbell,Male,183.0,NBC - Heroes,bad,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Luke Skywalker,Male,168.0,George Lucas,good,77.0,True,True,False,False,True,True,True,True,True,False,False,True,True,True
+Luna,Female,183.0,Marvel Comics,good,81.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Lyja,Female,183.0,Marvel Comics,good,81.0,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+Mach-IV,Male,180.0,Marvel Comics,bad,79.0,True,False,False,False,False,False,True,True,False,False,False,False,False,False
+Machine Man,-,183.0,Marvel Comics,good,383.0,True,False,False,False,False,False,True,True,False,False,False,False,False,False
+Magneto,Male,188.0,Marvel Comics,bad,86.0,True,True,False,False,False,True,True,False,False,False,False,False,False,False
+Magog,Male,183.0,DC Comics,good,81.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+Magus,Male,183.0,Marvel Comics,bad,81.0,True,True,False,False,True,False,True,False,True,False,True,False,False,False
+Man of Miracles,-,183.0,Image Comics,-,81.0,True,True,True,True,True,True,True,False,True,False,False,False,False,True
+Man-Bat,Male,183.0,DC Comics,neutral,81.0,True,False,False,False,False,False,True,True,True,True,False,False,False,False
+Man-Thing,Male,213.0,Marvel Comics,good,225.0,True,False,False,False,True,True,False,True,False,False,False,False,False,False
+Man-Wolf,Male,188.0,Marvel Comics,good,90.0,True,False,False,False,True,False,False,False,True,True,False,False,False,False
+Mandarin,Male,188.0,Marvel Comics,bad,97.0,False,True,True,False,True,False,True,True,True,False,False,False,False,False
+Mantis,Female,168.0,Marvel Comics,good,52.0,False,False,True,False,True,True,True,False,True,False,False,False,False,False
+Martian Manhunter,Male,201.0,DC Comics,good,135.0,True,False,False,False,True,True,True,True,True,True,False,True,True,False
+Marvel Girl,Female,170.0,Marvel Comics,good,56.0,False,True,True,False,False,True,True,False,True,False,False,False,False,False
+Master Brood,Male,183.0,Team Epic TV,good,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Master Chief,Male,213.0,Microsoft,good,81.0,True,False,False,False,True,False,False,True,False,False,False,False,True,False
+Match,Male,183.0,DC Comics,bad,81.0,True,True,False,False,True,False,True,False,True,True,False,False,False,False
+Matt Parkman,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Maverick,Male,193.0,Marvel Comics,good,110.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Maxima,Female,180.0,DC Comics,bad,72.0,True,False,False,False,False,True,True,False,True,False,False,True,False,False
+Maya Herrera,Female,183.0,NBC - Heroes,good,81.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Medusa,Female,180.0,Marvel Comics,good,59.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Meltdown,Female,165.0,Marvel Comics,good,54.0,True,True,False,False,False,True,False,False,False,False,False,False,False,False
+Mephisto,Male,198.0,Marvel Comics,bad,140.0,True,True,False,True,True,True,True,False,True,False,False,True,False,False
+Mera,Female,175.0,DC Comics,good,72.0,True,False,True,False,True,True,True,False,False,True,False,False,True,False
+Metallo,Male,196.0,DC Comics,bad,90.0,True,True,False,False,True,False,False,False,True,False,True,False,False,False
+Metamorpho,Male,185.0,DC Comics,good,90.0,False,False,True,False,True,False,False,True,True,False,False,False,False,False
+Metron,Male,185.0,DC Comics,good,86.0,False,False,False,False,True,False,True,False,False,False,False,False,False,False
+Micah Sanders,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,False,False,False,False,True,False,False,False
+Michelangelo,Male,183.0,IDW Publishing,good,81.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Micro Lad,Male,183.0,DC Comics,good,77.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Mimic,Male,188.0,Marvel Comics,good,101.0,True,True,True,False,False,True,True,False,True,False,False,False,False,False
+Minna Murray,Female,183.0,Wildstorm,good,81.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Misfit,Female,183.0,DC Comics,good,81.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Miss Martian,Female,178.0,DC Comics,good,61.0,True,True,False,False,True,True,True,False,True,True,False,False,True,False
+Mister Fantastic,Male,185.0,Marvel Comics,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Mister Freeze,Male,183.0,DC Comics,bad,86.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Mister Knife,Male,183.0,Marvel Comics,bad,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Mister Mxyzptlk,Male,183.0,DC Comics,bad,81.0,True,True,True,True,True,True,True,False,True,False,False,False,False,True
+Mister Sinister,Male,196.0,Marvel Comics,bad,128.0,True,True,False,False,True,True,True,False,True,False,False,True,False,False
+Mockingbird,Female,175.0,Marvel Comics,good,61.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+MODOK,Male,366.0,Marvel Comics,bad,338.0,True,True,True,False,True,True,True,True,True,False,True,True,False,False
+Mohinder Suresh,Male,183.0,NBC - Heroes,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Molten Man,Male,196.0,Marvel Comics,bad,248.0,True,False,True,False,False,False,False,False,False,False,False,False,False,False
+Monarch,Male,193.0,DC Comics,good,90.0,True,False,False,False,True,False,True,False,False,False,True,False,False,False
+Monica Dawson,Female,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Moon Knight,Male,188.0,Marvel Comics,good,101.0,True,False,False,False,False,True,False,True,False,False,False,False,False,False
+Moonstone,Female,180.0,Marvel Comics,bad,59.0,True,True,False,False,False,False,True,False,True,False,False,False,True,False
+Morlun,Male,188.0,Marvel Comics,bad,79.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Moses Magnum,Male,175.0,Marvel Comics,bad,72.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Mr Immortal,Male,188.0,Marvel Comics,good,70.0,False,False,False,False,True,False,False,False,False,False,False,False,False,False
+Mr Incredible,Male,201.0,Dark Horse Comics,good,158.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Ms Marvel II,Female,173.0,Marvel Comics,good,61.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Multiple Man,Male,180.0,Marvel Comics,good,70.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Mysterio,Male,180.0,Marvel Comics,bad,79.0,True,False,False,True,False,False,False,True,False,True,False,True,True,False
+Mystique,Female,178.0,Marvel Comics,bad,54.0,True,False,False,False,True,True,False,True,True,False,False,False,False,False
+Namor,Male,183.0,Marvel Comics,good,81.0,True,False,False,False,True,True,True,False,True,False,False,False,True,False
+Namor,Male,188.0,Marvel Comics,good,125.0,True,False,False,False,True,True,True,False,True,False,False,False,True,False
+Namora,Female,180.0,Marvel Comics,good,85.0,True,False,False,False,True,True,True,False,False,False,False,False,False,False
+Namorita,Female,168.0,Marvel Comics,good,101.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Naruto Uzumaki,Male,168.0,Shueisha,good,54.0,True,True,True,True,True,True,True,True,True,False,False,False,True,False
+Nathan Petrelli,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Nebula,Female,185.0,Marvel Comics,bad,83.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Negasonic Teenage Warhead,Female,183.0,Marvel Comics,good,81.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Nick Fury,Male,185.0,Marvel Comics,good,99.0,False,False,False,False,True,False,False,True,False,False,False,False,False,False
+Nightcrawler,Male,175.0,Marvel Comics,good,88.0,True,False,False,False,False,False,True,False,False,True,False,False,True,False
+Nightwing,Male,178.0,DC Comics,good,79.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Niki Sanders,Female,183.0,NBC - Heroes,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Nina Theroux,Female,183.0,SyFy,good,81.0,False,False,False,False,False,True,False,False,True,False,False,False,False,False
+Northstar,Male,180.0,Marvel Comics,good,83.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Nova,Male,185.0,Marvel Comics,good,86.0,True,True,True,False,True,False,True,False,False,True,False,False,False,False
+Nova,Female,163.0,Marvel Comics,good,59.0,True,True,True,False,True,False,True,False,False,True,False,False,False,False
+Odin,Male,206.0,Marvel Comics,good,293.0,True,True,True,True,True,True,True,False,True,False,False,True,True,True
+Offspring,Male,183.0,DC Comics,good,81.0,False,False,True,False,True,True,False,False,True,False,False,False,False,False
+Omniscient,Male,180.0,Team Epic TV,good,65.0,False,False,False,False,False,True,True,False,True,False,False,True,False,False
+One Punch Man,Male,175.0,Shueisha,good,69.0,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+One-Above-All,-,183.0,Marvel Comics,neutral,81.0,True,True,True,True,True,True,True,False,True,False,False,False,True,True
+Onslaught,Male,305.0,Marvel Comics,bad,405.0,True,False,False,False,True,True,True,False,True,True,False,True,True,True
+Oracle,Female,178.0,DC Comics,good,59.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Osiris,Male,183.0,DC Comics,good,81.0,True,False,False,False,True,True,True,False,False,False,False,False,False,False
+Overtkill,Male,183.0,Image Comics,bad,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Ozymandias,Male,183.0,DC Comics,bad,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Parademon,-,183.0,DC Comics,bad,81.0,True,False,True,False,True,False,True,True,True,False,False,False,False,False
+Penance II,Male,183.0,Marvel Comics,good,89.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Penguin,Male,157.0,DC Comics,bad,79.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Peter Petrelli,Male,183.0,NBC - Heroes,good,81.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Phantom,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Phantom Girl,Female,168.0,DC Comics,good,54.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Phoenix,Female,168.0,Marvel Comics,good,52.0,True,True,True,True,True,True,True,False,True,False,False,True,False,True
+Plantman,Male,183.0,Marvel Comics,bad,87.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Plastic Man,Male,185.0,DC Comics,good,80.0,True,False,False,False,True,True,False,False,True,False,False,False,False,False
+Plastique,Female,168.0,DC Comics,bad,55.0,False,True,False,False,False,False,False,False,False,False,False,False,False,False
+Poison Ivy,Female,168.0,DC Comics,bad,50.0,True,False,False,False,True,False,False,True,False,False,False,True,False,False
+Polaris,Female,170.0,Marvel Comics,good,52.0,True,True,False,False,False,False,True,False,True,False,False,False,False,False
+Power Girl,Female,180.0,DC Comics,good,81.0,True,True,False,False,True,False,True,False,False,True,False,False,False,False
+Predator,Male,213.0,Dark Horse Comics,bad,234.0,True,False,False,False,True,False,False,True,False,True,False,False,True,False
+Professor X,Male,183.0,Marvel Comics,good,86.0,False,False,False,False,False,True,True,False,True,False,False,True,False,False
+Professor Zoom,Male,180.0,DC Comics,bad,81.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Proto-Goblin,Male,183.0,Marvel Comics,bad,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Psylocke,Female,180.0,Marvel Comics,good,70.0,True,False,False,False,False,True,True,False,True,False,False,True,True,False
+Punisher,Male,183.0,Marvel Comics,good,90.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Purple Man,Male,180.0,Marvel Comics,bad,74.0,False,False,False,False,True,True,False,False,True,False,False,True,False,False
+Pyro,Male,178.0,Marvel Comics,bad,68.0,False,False,True,False,False,False,False,False,False,False,False,False,False,False
+Q,Male,183.0,Star Trek,-,81.0,False,False,False,True,True,True,True,False,True,False,False,True,False,True
+Quantum,Male,183.0,HarperCollins,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Question,Male,188.0,DC Comics,good,83.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Quicksilver,Male,183.0,Marvel Comics,good,79.0,True,False,False,False,False,False,False,False,True,False,False,False,False,False
+Quill,Male,163.0,Marvel Comics,good,56.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Ra's Al Ghul,Male,193.0,DC Comics,bad,97.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Rachel Pirzad,Female,183.0,SyFy,good,81.0,True,False,False,False,False,False,False,False,False,True,False,False,False,False
+Raphael,Male,183.0,IDW Publishing,good,81.0,True,False,False,False,True,False,True,True,False,False,False,False,True,False
+Raven,Female,165.0,DC Comics,neutral,50.0,False,False,False,False,False,True,True,False,True,False,False,False,False,False
+Ray,Male,178.0,DC Comics,good,70.0,True,True,True,False,True,False,True,False,False,False,False,True,True,False
+Razor-Fist II,Male,191.0,Marvel Comics,bad,117.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Red Arrow,Male,180.0,DC Comics,good,83.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Red Hood,Male,183.0,DC Comics,neutral,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Red Hulk,Male,213.0,Marvel Comics,neutral,630.0,True,True,False,False,True,False,False,False,False,False,False,False,False,False
+Red Mist,Male,183.0,Icon Comics,bad,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Red Robin,Male,165.0,DC Comics,good,56.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Red Skull,Male,188.0,Marvel Comics,bad,108.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Red Tornado,Male,185.0,DC Comics,good,146.0,True,False,True,False,True,False,True,False,False,False,True,False,True,True
+Redeemer II,Male,183.0,Image Comics,bad,81.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Redeemer III,Male,183.0,Image Comics,bad,81.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Rey,Female,297.0,George Lucas,good,81.0,True,False,False,False,False,False,False,False,True,False,False,False,False,True
+Rhino,Male,196.0,Marvel Comics,bad,320.0,True,False,True,False,True,False,False,True,False,False,False,False,False,False
+Rick Flag,Male,185.0,DC Comics,bad,85.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Riddler,Male,183.0,DC Comics,bad,81.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Rip Hunter,Male,183.0,DC Comics,good,81.0,False,False,False,False,False,True,True,True,False,False,False,False,False,False
+Ripcord,Female,180.0,Marvel Comics,good,72.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Robin,Male,178.0,DC Comics,good,79.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Robin II,Male,183.0,DC Comics,good,101.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Robin III,Male,165.0,DC Comics,good,56.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Robin V,Male,137.0,DC Comics,good,38.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Robin VI,Female,183.0,DC Comics,neutral,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Rocket Raccoon,Male,122.0,Marvel Comics,good,25.0,True,False,False,False,True,False,False,True,True,True,False,False,False,False
+Rogue,Female,173.0,Marvel Comics,good,54.0,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+Rorschach,Male,168.0,DC Comics,good,63.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sabretooth,Male,198.0,Marvel Comics,bad,171.0,True,False,False,False,True,False,False,True,True,False,False,False,False,False
+Sage,Female,170.0,Marvel Comics,good,61.0,False,False,False,False,False,True,False,False,True,False,True,False,False,False
+Sandman,Male,185.0,Marvel Comics,neutral,203.0,True,False,True,False,True,False,False,True,True,False,False,False,True,False
+Sasquatch,Male,305.0,Marvel Comics,good,900.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Sauron,Male,279.0,J. R. R. Tolkien,bad,81.0,True,True,True,True,True,False,False,True,True,False,False,False,False,True
+Savage Dragon,Male,183.0,Image Comics,good,81.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Scarecrow,Male,183.0,DC Comics,bad,63.0,False,False,False,False,False,True,False,False,False,False,False,True,False,False
+Scarlet Spider,Male,178.0,Marvel Comics,good,74.0,True,False,False,False,True,True,False,True,True,True,False,False,True,False
+Scarlet Spider II,Male,193.0,Marvel Comics,good,113.0,True,False,False,False,True,False,False,False,True,False,False,False,True,False
+Scarlet Witch,Female,170.0,Marvel Comics,bad,59.0,True,True,False,True,True,True,True,False,True,False,False,True,False,True
+Scorpia,Female,183.0,Marvel Comics,bad,81.0,True,True,False,False,False,False,False,True,False,False,False,False,False,False
+Scorpion,Male,211.0,Marvel Comics,bad,310.0,True,False,False,False,False,True,False,True,False,False,False,False,True,False
+Sebastian Shaw,Male,183.0,Marvel Comics,bad,81.0,True,True,False,False,False,False,False,False,False,False,False,False,False,False
+Sentry,Male,188.0,Marvel Comics,neutral,87.0,True,True,False,False,True,True,True,False,True,True,False,False,False,True
+Shadow King,-,185.0,Marvel Comics,good,149.0,False,False,False,False,True,True,True,True,True,False,False,False,False,False
+Shadow Lass,Female,173.0,DC Comics,good,54.0,True,False,False,True,False,False,True,False,False,False,False,False,False,False
+Shadowcat,Female,168.0,Marvel Comics,good,50.0,False,False,False,False,False,True,True,True,False,False,False,False,True,False
+Shang-Chi,Male,178.0,Marvel Comics,good,79.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Shatterstar,Male,191.0,Marvel Comics,good,88.0,True,True,False,False,True,False,False,False,False,False,False,False,False,False
+She-Hulk,Female,201.0,Marvel Comics,good,315.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+She-Thing,Female,183.0,Marvel Comics,good,153.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Shocker,Male,175.0,Marvel Comics,bad,79.0,False,True,False,False,False,False,False,True,False,False,False,False,False,False
+Shriek,Female,173.0,Marvel Comics,good,52.0,False,True,False,False,False,True,True,False,True,False,False,False,False,False
+Sif,Female,188.0,Marvel Comics,good,191.0,True,False,False,False,True,False,True,True,False,False,False,False,False,False
+Silk,Female,183.0,Marvel Comics,good,81.0,True,False,False,False,True,True,False,True,True,False,False,False,True,False
+Silk Spectre,Female,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Silk Spectre II,Female,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Silver Surfer,Male,193.0,Marvel Comics,good,101.0,True,True,False,True,True,True,True,True,True,False,False,False,True,False
+Silverclaw,Female,157.0,Marvel Comics,good,50.0,True,False,False,False,False,False,True,False,True,False,False,False,False,False
+Simon Baz,Male,183.0,DC Comics,good,81.0,True,True,False,False,True,True,True,True,False,False,False,False,False,False
+Sinestro,Male,201.0,DC Comics,neutral,92.0,True,True,False,False,False,False,True,True,False,False,True,False,False,False
+Siren,Female,175.0,DC Comics,bad,72.0,True,False,True,False,True,True,True,False,False,True,False,False,True,False
+Siren II,Female,183.0,DC Comics,bad,81.0,True,False,False,False,False,False,False,False,False,False,False,True,False,False
+Siryn,Female,168.0,Marvel Comics,bad,52.0,True,False,False,False,False,False,True,False,False,True,False,False,False,False
+Skaar,Male,198.0,Marvel Comics,good,180.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Snowbird,Female,178.0,Marvel Comics,good,49.0,True,False,False,False,True,True,True,False,True,False,False,False,False,False
+Sobek,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Solomon Grundy,Male,279.0,DC Comics,bad,437.0,True,True,False,False,True,False,False,False,False,False,False,False,False,True
+Songbird,Female,165.0,Marvel Comics,good,65.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Space Ghost,Male,188.0,DC Comics,good,113.0,True,True,True,False,True,False,True,True,False,False,False,False,True,False
+Spawn,Male,211.0,Image Comics,good,405.0,True,False,False,True,True,True,True,True,True,False,False,False,False,True
+Spectre,Male,183.0,DC Comics,good,81.0,True,True,True,True,True,True,True,True,True,True,False,True,True,True
+Speedball,Male,183.0,Marvel Comics,good,81.0,False,True,False,False,False,False,False,False,True,False,False,False,False,False
+Speedy,Male,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Speedy,Female,183.0,DC Comics,good,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Spider-Girl,Female,170.0,Marvel Comics,good,54.0,True,False,False,False,True,True,False,True,False,False,False,False,True,False
+Spider-Gwen,Female,165.0,Marvel Comics,good,56.0,True,False,False,False,True,True,False,True,True,False,False,False,True,False
+Spider-Man,Male,178.0,Marvel Comics,good,74.0,True,False,False,False,True,True,False,True,True,True,False,False,True,False
+Spider-Man,-,178.0,Marvel Comics,good,77.0,True,False,False,False,True,True,False,True,True,True,False,False,True,False
+Spider-Man,Male,157.0,Marvel Comics,good,56.0,True,False,False,False,True,True,False,True,True,True,False,False,True,False
+Spider-Woman,Female,178.0,Marvel Comics,good,59.0,True,True,False,False,True,False,True,False,False,False,False,False,True,False
+Spider-Woman III,Female,173.0,Marvel Comics,good,55.0,True,True,False,False,False,True,True,False,False,False,False,False,True,False
+Spider-Woman IV,Female,178.0,Marvel Comics,bad,58.0,True,True,False,False,False,True,True,False,True,False,False,True,True,False
+Spock,Male,185.0,Star Trek,good,81.0,True,False,False,False,True,True,False,False,False,False,False,False,False,False
+Spyke,Male,183.0,Marvel Comics,good,83.0,True,False,True,False,True,False,False,True,False,False,False,False,True,False
+Star-Lord,Male,188.0,Marvel Comics,good,79.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Stardust,Male,183.0,Marvel Comics,good,81.0,True,True,False,True,True,False,True,False,False,False,False,False,False,False
+Starfire,Female,193.0,DC Comics,good,71.0,True,True,False,False,True,False,True,False,False,False,False,False,False,False
+Stargirl,Female,165.0,DC Comics,good,62.0,True,True,True,False,True,False,False,False,True,False,False,False,False,False
+Static,Male,170.0,DC Comics,good,63.0,True,True,False,False,True,False,True,True,True,False,False,False,False,False
+Steel,Male,201.0,DC Comics,good,131.0,True,False,True,False,True,False,True,True,False,False,False,False,False,False
+Stephanie Powell,Female,183.0,ABC Studios,good,81.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Steppenwolf,Male,183.0,DC Comics,bad,91.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+Storm,Female,180.0,Marvel Comics,good,57.0,True,False,True,False,True,True,True,False,False,False,False,False,False,False
+Stormtrooper,Male,183.0,George Lucas,bad,81.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Sunspot,Male,173.0,Marvel Comics,good,77.0,True,True,True,False,True,False,True,False,False,False,False,False,False,False
+Superboy,Male,170.0,DC Comics,good,68.0,True,True,False,False,True,False,True,False,False,True,False,False,False,False
+Superboy-Prime,Male,180.0,DC Comics,bad,77.0,True,True,False,False,True,False,True,True,False,True,False,True,False,False
+Supergirl,Female,165.0,DC Comics,good,54.0,True,True,True,False,True,False,True,False,False,True,False,True,False,False
+Superman,Male,191.0,DC Comics,good,101.0,True,True,True,False,True,False,True,True,False,True,False,True,False,False
+Swamp Thing,Male,183.0,DC Comics,bad,81.0,True,False,False,False,True,False,True,False,True,False,False,True,True,True
+Swarm,Male,196.0,Marvel Comics,bad,47.0,True,False,False,False,True,False,True,False,True,False,False,False,True,False
+Sylar,Male,183.0,NBC - Heroes,bad,81.0,True,False,True,False,False,True,False,False,True,False,False,False,False,False
+Synch,Male,180.0,Marvel Comics,good,74.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+T-1000,Male,183.0,Dark Horse Comics,bad,146.0,True,False,True,False,True,False,False,True,True,True,True,False,True,False
+T-800,Male,183.0,Dark Horse Comics,bad,176.0,True,False,True,False,True,False,False,True,False,True,True,False,False,False
+T-850,Male,183.0,Dark Horse Comics,bad,198.0,True,False,True,False,True,False,False,True,False,True,True,False,False,False
+T-X,Female,183.0,Dark Horse Comics,bad,149.0,True,True,True,False,True,False,False,True,True,True,True,False,True,False
+Taskmaster,Male,188.0,Marvel Comics,bad,99.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Tempest,Female,163.0,Marvel Comics,good,54.0,False,False,True,False,False,False,True,False,False,False,False,False,False,False
+Thanos,Male,201.0,Marvel Comics,bad,443.0,True,True,True,True,True,True,True,False,True,True,False,False,False,True
+The Comedian,Male,188.0,DC Comics,neutral,101.0,False,False,False,False,False,False,False,True,False,False,False,False,False,False
+Thing,Male,183.0,Marvel Comics,good,225.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Thor,Male,198.0,Marvel Comics,good,288.0,True,False,True,True,True,False,True,True,False,False,False,False,False,True
+Thor Girl,Female,175.0,Marvel Comics,good,143.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Thunderbird,Male,185.0,Marvel Comics,good,101.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Thunderbird III,Male,175.0,Marvel Comics,good,74.0,False,True,False,False,False,False,True,True,False,False,False,False,False,False
+Thunderstrike,Male,198.0,Marvel Comics,good,288.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Thundra,Female,218.0,Marvel Comics,good,158.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tiger Shark,Male,185.0,Marvel Comics,bad,203.0,True,False,False,False,True,False,True,True,True,False,False,False,True,False
+Tigra,Female,178.0,Marvel Comics,good,81.0,True,False,False,False,False,False,False,False,False,False,False,False,False,False
+Tinkerer,Male,163.0,Marvel Comics,bad,54.0,False,False,False,False,False,False,False,False,False,False,False,False,False,False
+Titan,Male,183.0,HarperCollins,good,81.0,True,False,False,False,False,False,True,False,False,False,False,False,False,False
+Toad,Male,175.0,Marvel Comics,neutral,76.0,True,False,False,False,True,True,False,False,True,True,False,True,True,False
+Toxin,Male,188.0,Marvel Comics,good,97.0,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+Toxin,Male,191.0,Marvel Comics,good,117.0,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+Tracy Strauss,Female,183.0,NBC - Heroes,good,81.0,False,False,True,False,True,False,False,False,False,False,False,False,False,False
+Trickster,Male,183.0,DC Comics,-,81.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Trigon,Male,183.0,DC Comics,bad,81.0,True,False,True,False,True,False,True,False,True,False,False,True,False,False
+Triplicate Girl,Female,168.0,DC Comics,good,59.0,False,False,False,False,False,False,True,False,True,False,False,False,False,False
+Triton,Male,188.0,Marvel Comics,good,86.0,True,False,False,False,True,False,True,False,False,False,False,False,True,False
+Ultragirl,Female,168.0,Marvel Comics,good,105.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Ultron,Male,206.0,Marvel Comics,bad,331.0,True,True,False,False,True,False,True,False,True,True,True,False,False,False
+Utgard-Loki,Male,15.2,Marvel Comics,bad,58.0,True,False,False,True,True,False,False,False,False,False,False,False,False,False
+Valerie Hart,Female,175.0,Team Epic TV,good,56.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Valkyrie,Female,191.0,Marvel Comics,good,214.0,True,False,False,False,True,False,False,False,False,False,False,False,False,False
+Vanisher,Male,165.0,Marvel Comics,bad,79.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Vegeta,Male,168.0,Shueisha,bad,73.0,True,True,True,False,True,False,True,True,True,True,False,False,False,False
+Venom,Male,191.0,Marvel Comics,bad,117.0,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+Venom II,Male,175.0,Marvel Comics,bad,50.0,True,False,False,False,False,False,False,False,True,False,False,False,True,False
+Venom III,Male,229.0,Marvel Comics,bad,334.0,True,False,False,True,True,True,False,True,True,False,False,False,True,False
+Venompool,Male,226.0,Marvel Comics,-,81.0,True,False,False,True,True,True,True,True,True,False,False,False,True,False
+Vertigo II,Female,168.0,Marvel Comics,good,52.0,False,False,False,False,False,True,False,False,False,False,False,False,False,False
+Vibe,Male,178.0,DC Comics,good,71.0,False,True,True,False,False,True,True,False,True,False,False,False,False,False
+Vindicator,Female,165.0,Marvel Comics,good,54.0,False,True,True,False,False,False,True,False,True,False,False,False,False,False
+Vindicator,Male,183.0,Marvel Comics,good,81.0,False,True,True,False,False,False,True,False,True,False,False,False,False,False
+Violator,Male,183.0,Image Comics,bad,81.0,True,False,False,False,False,True,False,False,True,False,False,False,False,False
+Violet Parr,Female,137.0,Dark Horse Comics,good,41.0,False,True,False,False,False,False,True,False,False,False,False,False,True,False
+Vision,Male,191.0,Marvel Comics,good,135.0,True,True,False,False,True,True,True,True,True,False,True,False,True,False
+Vixen,Female,175.0,DC Comics,good,63.0,True,False,False,False,True,True,True,True,True,False,False,False,True,False
+Vulture,Male,180.0,Marvel Comics,bad,79.0,True,False,False,False,False,False,True,True,True,False,False,False,False,False
+Walrus,Male,183.0,Marvel Comics,bad,162.0,True,False,False,False,True,False,False,True,False,False,False,False,False,False
+War Machine,Male,185.0,Marvel Comics,good,95.0,True,True,False,False,True,False,True,True,False,True,False,False,True,False
+Warlock,Male,188.0,Marvel Comics,good,108.0,True,True,False,False,False,False,True,False,False,False,False,False,False,False
+Warp,Male,173.0,DC Comics,bad,67.0,False,False,False,False,False,False,True,False,False,False,False,False,False,False
+Warpath,Male,218.0,Marvel Comics,good,158.0,True,False,True,False,True,False,False,False,False,True,False,False,False,False
+Wasp,Female,163.0,Marvel Comics,good,50.0,True,True,False,False,False,False,True,True,True,False,False,False,False,False
+Watcher,Male,183.0,Marvel Comics,good,81.0,True,True,False,False,True,True,True,False,True,False,False,True,True,False
+Weapon XI,Male,183.0,Marvel Comics,bad,81.0,True,True,False,False,True,False,True,True,False,False,False,False,False,False
+White Canary,Female,183.0,DC Comics,bad,81.0,True,False,False,False,False,False,False,True,False,False,False,False,False,False
+Wildfire,Male,183.0,DC Comics,good,81.0,True,True,False,False,True,False,True,False,True,True,False,False,False,False
+Winter Soldier,Male,175.0,Marvel Comics,good,117.0,True,True,False,False,True,False,False,True,False,False,False,False,False,False
+Wolfsbane,Female,366.0,Marvel Comics,good,473.0,True,False,False,False,False,False,False,True,True,True,False,False,False,False
+Wolverine,Male,160.0,Marvel Comics,good,135.0,True,False,False,False,True,True,False,True,True,True,False,False,False,False
+Wonder Girl,Female,165.0,DC Comics,good,51.0,True,False,False,False,True,False,True,False,False,False,False,False,False,False
+Wonder Man,Male,188.0,Marvel Comics,good,171.0,True,True,False,False,True,False,True,False,True,False,False,False,False,False
+Wonder Woman,Female,183.0,DC Comics,good,74.0,True,False,False,False,True,True,True,True,True,True,False,True,False,False
+X-23,Female,155.0,Marvel Comics,good,50.0,True,False,False,False,True,False,False,True,False,True,False,False,False,False
+X-Man,Male,175.0,Marvel Comics,good,61.0,False,False,False,False,False,True,True,False,True,False,False,True,True,False
+Yellowjacket,Male,183.0,Marvel Comics,good,83.0,False,False,False,False,False,False,False,False,True,False,False,False,False,False
+Yellowjacket II,Female,165.0,Marvel Comics,good,52.0,False,True,False,False,False,False,True,False,True,False,False,False,False,False
+Ymir,Male,304.8,Marvel Comics,good,81.0,True,False,True,False,True,False,False,False,False,False,False,False,False,False
+Yoda,Male,66.0,George Lucas,good,17.0,True,True,False,False,True,True,False,True,True,False,False,False,True,True
+Zatanna,Female,170.0,DC Comics,good,57.0,False,False,True,True,False,True,False,False,True,False,False,False,False,False
+Zoom,Male,185.0,DC Comics,bad,81.0,True,False,False,False,False,False,True,False,False,False,False,False,True,False
