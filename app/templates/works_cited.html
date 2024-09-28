@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Super Hero Battle Predictions</title>
+
+    <!-- CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="https://bootswatch.com/5/lux/bootstrap.min.css", rel="stylesheet">
+    <link href="./static/css/work_cited.css" rel="stylesheet">
+
+    <!-- JS IMPORTS - External Libraries -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+    <!-- NAVBAR -->
+    <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="/"><img src="app/static/images/battle_hands.png" height="50px"></a>
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                <a class="nav-link active" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/dashboard">Machine Learning</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/map">Tableau 1</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/map">Tableau 2</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/about_us">About Us</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/works_cited">Works Cited</a>
+                </li>
+                <li class="nav-item">
+                <a class="nav-link" href="/works_cited">Findings</a>
+                </li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- add spacing -->
+    <br/>
+
+    <!-- Dashboard -->
+     <div class="container-fluid">
+        <div class="row">
+            <div class="col-md-12 text-center">
+                <h1>Works Cited and other Resources</h1>
+            </div>
+        </div>
+     </div>
+
+      <div class="container">
+        <div class="row">
+            <div class="col-md-4">
+                <!-- Card 1 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Super hero battle data</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Data</h6>
+                        <p class="card-text">This is the dataset we used to train the ML model.</p>
+                        <a href="https://www.kaggle.com/datasets/rabieelkharoua/fictional-character-battle-outcome-prediction" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <!-- Card 4 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Super hero stats</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Data</h6>
+                        <p class="card-text">Here is the original super hero stats dataset we used for Tableau. </p>
+                        <a href="https://www.kaggle.com/datasets/claudiodavi/superhero-set" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-md-4">
+                <!-- Card 3 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Bootswatch Themes</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Code</h6>
+                        <p class="card-text">Our bootswatch theme and code for elements like the cards on the work sited page.</p>
+                        <a href="https://bootswatch.com/lux/" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-md-4">
+                <!-- Card 2 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Tesla Logo</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Images</h6>
+                        <p class="card-text">The Tesla logo used on our page.</p>
+                        <a href="https://pngimg.com/image/62061" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+    
+            <div class="col-md-4">
+                <!-- Card 5 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Plotly Colorsscales</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Data Visualizations</h6>
+                        <p class="card-text">The documentation for Plotly colorscales to help with bubble chart colors.</p>
+                        <a href="https://plotly.com/javascript/colorscales/" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <!-- Card 6 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Data Tables</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Code</h6>
+                        <p class="card-text">Helped to mkae our table more readable when we have more than ten rows.</p>
+                        <a href="https://datatables.net/" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <!-- Card 7 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Plotly Bar Charts</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Code</h6>
+                        <p class="card-text">Plotly documentation of how to make a bar chart in javascript.</p>
+                        <a href="https://plotly.com/javascript/bar-charts/" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <!-- Card 8 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Sunburst Chart</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Code</h6>
+                        <p class="card-text">Helped to make the sunburst chart.</p>
+                        <a href="https://www.anychart.com/blog/2023/06/19/sunburst-chart-js/" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-4">
+                <!-- Card 9 -->
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Data Visualization with JavaScript</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Data Visualizations</h6>
+                        <p class="card-text">A great reference By Stephen A. Thomas in how to make all the data viz in javascript. Thomas, S. A. (2015). Data visualization with JavaScript. No Starch Press. </p>
+                        <a href="https://nostarch.com/datavisualization" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div>
+
+            <!-- <div class="col-md-4">
+                Card 5
+                <div class="card">
+                    <div class="card-body">
+                        <h4 class="card-title">Card title 5</h4>
+                        <h6 class="card-subtitle mb-2 text-muted">Another Category</h6>
+                        <p class="card-text">Description of another new card.</p>
+                        <a href="#" class="card-link">Source</a>
+                    </div>
+                </div>
+            </div> -->
+        </div>
+    </div>
+
+     <br/>
+     <br/>
+</body>
+
+</html>
+
+
+<!--the website with the code to build the about us page https://www.w3schools.com/howto/howto_css_team.asp-->
+<!-- the website that i got the logo https://www.istockphoto.com/vector/vector-clenched-fists-fight-mma-wrestling-kick-boxing-karate-sport-gm961853036-262671032 -->
+<!-- our kaggle data set for the super hero stats for tableau https://www.kaggle.com/datasets/claudiodavi/superhero-set -->
+<!-- our bootswatch theme+ variose website elements like the work sited cards https://bootswatch.com/lux/ -->
+<!-- helping us find the gradients for our bubble chart https://plotly.com/javascript/colorscales/ -->
+<!-- making our tables pretty https://datatables.net/ -->
+<!-- bar chart help https://plotly.com/javascript/bar-charts/ -->
+<!-- making of the sunchart https://www.anychart.com/blog/2023/06/19/sunburst-chart-js/ -->
+<!-- book steven used to help with js https://nostarch.com/datavisualization -->

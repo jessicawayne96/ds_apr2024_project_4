@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>About Us</title>
+    <!-- Boostrap -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/lux/bootstrap.min.css">
+    <!-- Our CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <script type="text/javascript" src="https://public.tableau.com/javascripts/api/tableau-2.min.js"></script>
+    <script type="text/javascript" src="static/js/tableau_api.js"></script>
+
+</head>
+
+<body>
+
+   <!-- NAVBAR -->
+   <nav class="navbar navbar-expand-lg bg-primary" data-bs-theme="dark">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/"><img src="app/static/images/battle_hands.png" height="50px"></a>
+        <ul class="navbar-nav me-auto">
+            <li class="nav-item">
+            <a class="nav-link active" href="/">Home</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/dashboard">Machine Learning</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/map">Tableau 1</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/map">Tableau 2</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/about_us">About Us</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/works_cited">Works Cited</a>
+            </li>
+            <li class="nav-item">
+            <a class="nav-link" href="/works_cited">Findings</a>
+            </li>
+        </ul>
+    </div>
+    </nav>
+    
+    <div class="card container-fluid" style="margin-top:25px; margin-bottom: 25px;">
+        <div style="text-align: center;">
+            <h1>Embedded Tableau</h1>
+        </div>
+    </div>
+    <hr>
+    <div class="card container-fluid" style="margin-top:25px; margin-bottom: 25px; text-align: center;">
+        <h3>Toolbar</h3>
+        <div style="display: inline-block;">
+            <button type="button" class="btn btn-primary" id="pdf">PDF</button>
+            <button type="button" class="btn btn-primary" id="image">Image</button>
+            <button type="button" class="btn btn-primary" id="crosstab">Crosstab</button>
+            <button type="button" class="btn btn-primary" id="data">Data</button>
+            <button type="button" class="btn btn-danger" id="revert">Revert</button>
+        </div>
+    </div>
+
+    <!-- The div where we will inject our Tableau -->
+    <div id="tableauParent" class="container-fluid">
+        <div style="height:700px" id="tableauViz"></div>
+    </div>
+
+</body>
+
+</html>
