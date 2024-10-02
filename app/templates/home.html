@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Food Delivery Data Analysis</title>
+    
+    <!-- Bootstrap (Lux Theme) -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootswatch/4.5.2/lux/bootstrap.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" type="text/css" href="static/css/style.css">
+
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+    <style>
+        /* Centering content */
+        .centered-content {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            text-align: center;
+        }
+
+        /* Adding margin to sections */
+        .section {
+            margin-top: 40px;
+        }
+
+        /* Style for images */
+        .image-icon {
+            width: 150px;
+            height: 150px;
+        }
+    </style>
+</head>
+
+<body>
+
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-primary">
+    <div class="container-fluid">
+        <a class="navbar-brand" href="/">
+            <img src="../static/images/battle_hands.png" style="height: 80px; max-height: 80px;" alt="Logo">
+        </a>
+        <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav me-auto">
+                <li class="nav-item">
+                    <a class="nav-link active" href="/">Home</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/model">Machine Learning</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/dashboard">Superhero Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/battle">Battle Dashboard</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/about_us">About Us</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/works_cited">Works Cited</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+  </nav>
+
+  <!-- Content Section -->
+  <div class="container section">
+      <div class="row centered-content">
+          <div class="col-md-12">
+              <h1>Welcome to Our Superhero Analysis and Predictive Model</h1>
+              <p>This project features two interactive dashboards: one showcasing a comprehensive dataset of over 600 superheroes, detailing their physical attributes, superpowers, and affiliations, which can be filtered by gender and alignment; and another focused on our machine learning model, which predicts battle outcomes between superheroes and villains based on character attributes and special abilities.</p>
+              <p>Explore to uncover the exciting dynamics of superhero battles!</p>
+          </div>
+      </div>
+  </div>
+
+  <!-- Images Section -->
+  <div class="container section">
+      <div class="row centered-content">
+          <div class="col-md-6 text-center">
+              <a href="/dashboard">
+                  <img src="/static/images/dash.png" alt="Dashboard Image" class="image-icon">
+                  <p style="padding-top: 10px;"><strong>Dashboard</strong></p>
+              </a>
+          </div>
+          <div class="col-md-6 text-center">
+              <a href="/map">
+                  <img src="/static/images/map.png" alt="Map Image" class="image-icon">
+                  <p style="padding-top: 10px;"><strong>Map</strong></p>
+              </a>
+          </div>
+      </div>
+  </div>
+
+  <!-- Bootstrap JavaScript -->
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.bundle.min.js"></script>
+  
+</body>
+</html>
