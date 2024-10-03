@@ -39,6 +39,10 @@ def about_us():
 def works_cited():
     return render_template("works_cited.html")
 
+@app.route("/findings")
+def findings():
+    return render_template("findings.html")
+
 @app.route('/makePredictions', methods=['POST'])
 def make_predictions():
     content = request.json["data"]
