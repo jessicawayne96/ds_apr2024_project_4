@@ -5,3 +5,16 @@ div {
     text-align: justify;
     text-justify: inter-word;
 }
+.container {
+  display: flex;           /* Enable flexbox */
+  justify-content: flex-end; /* Align items to the right */
+  padding: 10px;            /* Optional: Add some padding for spacing */
+  border: 1px solid #ccc;   /* Optional: Add a border to see the container */
+  width: 100%;              /* Make the container full width */
+  height: 100px;            /* Set a fixed height (adjust as needed) */
+}
+
+#output {
+  font-size: 16px;          /* Optional: Adjust font size */
+  color: #333;              /* Optional: Text color */
+}

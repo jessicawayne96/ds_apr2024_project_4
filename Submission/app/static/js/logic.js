@@ -38,7 +38,7 @@ function makePredictions() {
         success: function(returnedData) {
             // print it
             console.log(returnedData);
-            var prob = parseFloat(returnedData["prediction"]);
+            var prob = parseFloat(returnedData["prediction"]).toFixed(3);
 
             if (prob > 0.5) {
                 $("#output").text(`You might win the battle with a probability of ${prob}!`);
