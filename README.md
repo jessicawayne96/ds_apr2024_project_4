@@ -25,16 +25,14 @@ Our first dashboard explores the battle dataset, which contains randomized quali
 The second dashboard focuses on the superhero dataset, which contains real-world data on over 600 superheroes. This dashboard allows users to investigate various characteristics of superheroes, such as height, weight, alignment (good, evil, or neutral), and publisher. It also highlights the number and types of powers that each superhero possesses. The dashboard features filters for gender and alignment, allowing users to narrow down and compare specific groups of superheroes. The visualizations provide a clear view of how different traits and powers are distributed, giving a comprehensive look at the diversity and attributes of superheroes.
 
 ## Testing and Deployment
-We tested the model locally to ensure it worked, and we defined a make_predictions function for making predictions. However, during the web app deployment, we encountered issues loading the pickle files, which prevented real-time predictions. We are still debugging this problem.
+We tested the model locally to ensure it worked, and we defined a make_predictions function for making predictions. We then deployed the web app and made sure that the predictions were working.
 
 ## Bias and Limitations
-The model assumes an "average opponent" whose attributes are unknown, which may lead to biased predictions. Additionally, the dataset is limited in scope with only eight characters and a small set of special abilities and weaknesses. This restricts the model's ability to generalize to more complex battles.
-
-The most significant technical limitation we faced was the inability to load the model in our web app. Furthermore, manual preprocessing added complexity to the process, which could have been streamlined with a preprocessing pipeline. A more comprehensive dataset would improve the model’s performance and generalizability.
+The model assumes an "average opponent" whose attributes are unknown, which may lead to biased predictions. Additionally, the dataset is limited in scope with only eight characters and a small set of special abilities and weaknesses. This restricts the model's ability to generalize to more complex battles. Furthermore, manual preprocessing added complexity to the process, which could have been streamlined with a preprocessing pipeline. A more comprehensive dataset would improve the model’s performance and generalizability.
 
 ## Conclusion
-This project highlights the potential for using machine learning to predict superhero battle outcomes. While our model provides a good starting point, there is room for improvement in terms of dataset diversity, model performance, and deployment. Future iterations could address these limitations to create a more robust and scalable solution.
+This project highlights the potential for using machine learning to predict superhero battle outcomes. While our model provides a good starting point, there is room for improvement in terms of dataset diversity and model performance. Future iterations could address these limitations to create a more robust and scalable solution.
 
 Please Feel free to download the data and run it on your local server.
 
-Or you can access the web app here: until January 2025
+Or you can access the web app here: http://areid057.pythonanywhere.com/ until January 2025
