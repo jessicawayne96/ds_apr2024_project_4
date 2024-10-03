@@ -16,6 +16,11 @@
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+    <!-- JQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- JS -->
+    <script type="text/javascript" src="../static/js/logic.js"></script>
+    
 
 </head>
 
@@ -55,10 +60,16 @@
                 <div class="row">
                     <div class="col-md-12 text-center">
                         <div class="form-group">
-                            <label class="col-form-label" for="gender">Character</label>
-                            <select id="gender">
-                                <option value="1">Female</option>
-                                <option value="0">Male</option>
+                            <label class="col-form-label" for="character">Character</label>
+                            <select id="character">
+                                <option value="character_batman">Batman</option>
+                                <option value="character_captain_america">Captain America</option>
+                                <option value="character_flash">Flash</option>
+                                <option value="character_iron_man">Iron Man</option>
+                                <option value="character_spider_man">Spider Man</option>
+                                <option value="character_superman">Superman</option>
+                                <option value="character_thor">Thor</option>
+                                <option value="character_wonder_woman">Wonder Woman</option>
                             </select>
                         </div>
                         <div class="form-group">
@@ -79,22 +90,22 @@
                     </div>
 
                         <div class="form-group">
-                            <label class="col-form-label" for="pclass">Special Ability</label>
-                            <select id="pclass">
-                                <option value="0">Flight</option>
-                                <option value="1">Invisibility</option>
-                                <option value="2">Super Strength</option>
-                                <option value="3">Telekinesis</option>
+                            <label class="col-form-label" for="specialAbilities">Special Ability</label>
+                            <select id="specialAbilities">
+                                <option value="specialAbilities_flight">Flight</option>
+                                <option value="specialAbilities_invisibility">Invisibility</option>
+                                <option value="specialAbilities_super_strength">Super Strength</option>
+                                <option value="specialAbilities_telekinesis">Telekinesis</option>
                             </select>
                         </div>
 
                         <div class="form-group">
-                            <label class="col-form-label" for="embarked">Weakness</label>
-                            <select id="embarked">
-                                <option value="0">Kryptonite</option>
-                                <option value="1">Magic</option>
-                                <option value="2">Silver</option>
-                                <option value="3">Wooden Stake</option>
+                            <label class="col-form-label" for="weaknesses">Weakness</label>
+                            <select id="weaknesses">
+                                <option value="weaknesses_kryptonite">Kryptonite</option>
+                                <option value="weaknesses_magic">Magic</option>
+                                <option value="weaknesses_silver">Silver</option>
+                                <option value="weaknesses_wooden_stake">Wooden Stake</option>
                             </select>
                         </div>
                     </div>
